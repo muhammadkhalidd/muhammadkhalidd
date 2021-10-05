@@ -1,6 +1,14 @@
-### Hi there 👋
+### Hi everyone My name is Muhammad Khalid, AKA Jin. It is nice to meet you all and i'm looking forward to working with everyone.🙌
 
-**I'm Muhammad Khalid**
+**🤵Here is little bit about me.**
+
+🔭Currently I'm working becoming a professional web developer.
+
+🖊Taking courses for programing and web developing.
+
+👯I would love to colab with anyone who is interested in worlking alongside.
+
+💬Have any questions about me please feel free to ask without any hesitations.
 
 
 <!--
